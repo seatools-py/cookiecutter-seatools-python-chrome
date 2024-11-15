@@ -28,7 +28,7 @@ setup(
         'Natural Language :: English',
         'Programming Language :: Python :: 3.9',
     ],
-    description="Cookiecutter-seatools-python chrome插件工具包",
+    description="Cookiecutter-seatools-python chrome拓展工具包",
     install_requires=requirements,
     extras_require={},
     license="MIT license",
