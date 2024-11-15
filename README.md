@@ -1,4 +1,4 @@
-# Cookiecutter-seatools-python-plugin-chrome
+# Cookiecutter-seatools-python-chrome
 
 Cookiecutter-seatools-python chrome拓展工具包
 
