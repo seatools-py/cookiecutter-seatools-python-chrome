@@ -40,6 +40,11 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://gitee.com/seatools-py/cookiecutter-seatools-python-chrome',
-    version='1.0.0',
+    version='1.0.1',
     zip_safe=False,
+    entry_points={
+        'console_scripts': [
+            'seatools-chrome=seatools.ext.chrome.main:main',
+        ],
+    },
 )
